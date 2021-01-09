@@ -1,4 +1,4 @@
-# gerador_codigo_qr
+# Aplicativo para gerar código qr
 Meu primeiro projeto em Python.
 
 O arquivo tela_principal.py contém todas as funções para executar o programa.
